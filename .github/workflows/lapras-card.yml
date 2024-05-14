@@ -1,5 +1,7 @@
 name: LAPRAS Card
 
+permissions: write-all
+
 on:
   workflow_dispatch:
   schedule:
