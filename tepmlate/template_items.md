@@ -1,8 +1,8 @@
 ---
-date:
-title: 
-description: 
-tag: 
+date: xxx
+title: xxx
+description: xxx
+tag: xxx
 ---
 
 ## ヘッダー(タイトルやら更新日時やら)
